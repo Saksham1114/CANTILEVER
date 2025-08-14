@@ -1,0 +1,1 @@
+Welcome! This is a small, friendly chatbot project that talks like a filmy friend — mixing Hinglish (Roman Hindi) and English. It’s built as a simple seq2seq model with a SentencePiece tokenizer, served via Flask and easily exposed with ngrok for quick demos. The repository contains everything you need to reproduce the project in Google Colab or run locally.
