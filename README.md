@@ -1,1 +1,3 @@
 Welcome! This is a small, friendly chatbot project that talks like a filmy friend — mixing Hinglish (Roman Hindi) and English. It’s built as a simple seq2seq model with a SentencePiece tokenizer, served via Flask and easily exposed with ngrok for quick demos. The repository contains everything you need to reproduce the project in Google Colab or run locally.
+Hey — this repo contains my image-captioning project built with a CNN encoder (Inception/VGG/ResNet options) and an LSTM decoder.
+I built it in Google Colab so you can train and test quickly, and there’s a lightweight Flask UI so you can upload any picture and get a generated caption.
